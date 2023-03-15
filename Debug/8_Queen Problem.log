@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\main.cpp(42,58): warning C4805: '!=': unsafe mix of type 'boolean' and type 'bool' in operation
+C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\main.cpp(56,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\main.cpp(65,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\main.cpp(74,50): warning C4805: '!=': unsafe mix of type 'boolean' and type 'bool' in operation
+C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\main.cpp(101,18): warning C4805: '!=': unsafe mix of type 'boolean' and type 'bool' in operation
+  8_Queen Problem.vcxproj -> C:\Users\Abdullah\Music\Desktop 2\N_Queen Problem\Debug\8_Queen Problem.exe
